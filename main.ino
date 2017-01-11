@@ -1,5 +1,5 @@
 /* ============================================================================
-Proyecto/Archivo:                	spinCoater/main.ino
+Proyecto/Archivo:                	spincoater/main.ino
 Microcontrolador:                	atmega328p
 Frequencia:                      	16MHz
 Copyrights:                      	Jhon Jairo Realpe
